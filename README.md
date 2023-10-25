@@ -1,0 +1,1 @@
+# gnk_camping_updater
